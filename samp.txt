@@ -3,3 +3,6 @@ Hello
 I am Somalaraju Rahul. This is just a sample text file i created while learning git and it's commands.
 
 I have modified it now.
+
+
+created anew branch newone
