@@ -22,3 +22,5 @@ adding another line for pull
 
 
 Now added a branch via GITHUB and added this line
+
+Added a new branch demo2 in git.
